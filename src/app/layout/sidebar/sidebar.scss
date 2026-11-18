@@ -1,0 +1,14 @@
+aside {
+    width: 220px;
+    background-color: #1b1f3b;
+    color: #fff;
+    padding: 24px 16px;
+    min-height: 100vh;
+
+    .nav-title {
+        margin: 0 0 24px 14px;
+    }
+}
+nav a { display: block; padding: 10px 14px; border-radius: 8px;
+            color: #c7caf5; text-decoration: none; }
+    nav a.active { background: #4f46e5; color: #fff; }
